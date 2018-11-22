@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mob
+*.idea*
+Gemfile.lock
+.DS_Store
+report/*.*
+/screenshots/*.png

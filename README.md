@@ -1,4 +1,4 @@
-## TestingBot - RSpec Example
+## RSpec Example
 Training Testing Ruby Applications with RSpec on Pluralsight
 
 ### Environment Setup
@@ -30,7 +30,6 @@ Training Testing Ruby Applications with RSpec on Pluralsight
     ```
     $ rake os_x_10_13_6_chrome_latest
     ```
-You will see the test result in the [TestingBot Dashboard](https://testingbot.com/members/)
 
 ### Resources
 
